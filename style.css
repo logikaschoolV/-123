@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    background-color:#cccccc;
+}
+header{
+    padding:5px;
+}
+.logo{
+    width:200px;
+    height:200px;
+}
+nav{
+    margin:20px 0px ;
+    padding:20px 0px;
+    background-color: #b3ffff;
+    color:white;
+}
+nav a{
+    text-decoration: none;
+    margin-right:60px;
+    color:black;
+}
+main_img{
+    height:30px;
+}
+footer{
+  padding:10px;
+  margin-top:20px;
+}
+footer p{
+    padding:5px;
+}
+footer a{
+    text-decoration:none;
+}
+.contacts{
+    background-color:#6666ff;
+    color:black;
+    padding:10px 25px;
+    border-radius:10px;
+    font-size: 16px;
+
+}
+main img{
+    width:500px;
+    height:300px;
+}
